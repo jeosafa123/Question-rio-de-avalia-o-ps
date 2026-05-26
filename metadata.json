@@ -1,0 +1,6 @@
+{
+  "name": "Questionário de Avaliação",
+  "description": "Questionário interativo de Saúde e Bem-estar Emocional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
